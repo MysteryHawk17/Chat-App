@@ -27,8 +27,9 @@ This is a real time web chat application built using React and Firebase. It allo
 
 ## Screenshots
 
-![Login screen](/screenshots/login.png)
-![Chat screen](/screenshots/chat.png)
+![Login screen](/screenshots/Login.jpg)
+![Sign Up screen](/screenshots/SignUp.jpg)
+![Chat screen](/screenshots/chat.jpg)
 
 ## Future Improvements
 
@@ -40,8 +41,3 @@ This is a real time web chat application built using React and Firebase. It allo
 
 Contributions are welcome! If you find a bug or have a feature request, please submit an issue. If you would like to contribute code, please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-Written by Chatsonic
