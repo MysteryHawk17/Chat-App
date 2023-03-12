@@ -6,7 +6,6 @@ This is a real time web chat application built using React and Firebase. It allo
 
 - User authentication with Firebase Authentication
 - Real time messaging using Firebase Realtime Database
-- User online/offline status
 - Message timestamp
 - Responsive design
 
